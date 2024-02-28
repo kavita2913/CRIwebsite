@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.headerImg img {
+    width: 400px;
+    padding-top: 250px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.list img {
+    width: 100%;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+
+.award-text {
+    font-weight: bold;
+}
